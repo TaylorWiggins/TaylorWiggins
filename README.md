@@ -15,7 +15,7 @@ and cybersecurity solutions for the financial sector
 
 😄 Pronouns: H.E.R (Humbly)
 
-⚡ Fun fact: I once debugged a critical production issue while on a camping trip with only satellite internet access! (Getaway Cabin 2022)
+⚡ Fun fact: I once debugged a critical production issue while on a camping trip with only satellite internet access! (Getaway now renamed Postcard Cabins 2022)
 
 🔧 Technical Expertise : System Architecture | API Integration | Database Engineering | DevOps | Performance Optimization AI | Blockchain | Cybersecurity | FINOS | Linux | Data Exchange (YAML/JSON/XML) | PyTorch | Rust
 
