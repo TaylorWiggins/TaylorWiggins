@@ -1,43 +1,34 @@
-Taylor Wiggins
+<h1>Hi, I'm Taylor! </h1>
 
-Solutions-Oriented Support Engineer
+<h2>👨‍💻 Solution Architect Projects:</h2>
 
-I'm a Solutions-Oriented Support Engineer with extensive experience delivering critical technical solutions within the financial technology sector. My career has been built on a foundation of precise troubleshooting, system optimization, and cross-functional collaboration -skills that have repeatedly delivered measurable business outcomes for enterprise clients.
+  - [Fintech GRC RAG Lakehouse - TOGAF Solution Architecture POC](https://github.com/TaylorWiggins/TaylorWiggins/)
 
-👋 About Me
 
-👀 I'm passionate about open-source fintech projects, AI applications in financial services, blockchain technology, and cybersecurity frameworks for regulated industries
+<h2>📺 Popular YouTube Videos</h2>
 
-🌱 Currently expanding my expertise in Rust programming, PyTorch implementations, Kubernetes orchestration, and blockchain development
+- [Build a RAG Application with TOGAF Architecture in 4 Hours | Fintech GRC Assistant Tutorial] (https://www.youtube.com/@ThatAIProjectladyTay)
+  
 
-💞️ Looking to collaborate on FINOS open source initiatives, AI-driven financial solutions, Linux-based system optimization, data exchange formats (YAML/JSON/XML), Other Open Standards Development (CCC), fintech innovation, open source financial standards, 
-and cybersecurity solutions for the financial sector
+<h2> 🤳 Connect with me:</h2>
 
-😄 Pronouns: H.E.R (Humbly)
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-⚡ Fun fact: I once debugged a critical production issue while on a camping trip with only satellite internet access! (Getaway now renamed Postcard Cabins 2022)
 
-🔧 Technical Expertise : System Architecture | API Integration | Database Engineering | DevOps | Performance Optimization AI | Blockchain | Cybersecurity | FINOS | Linux | Data Exchange (YAML/JSON/XML) | PyTorch | Rust
+[YouTube]: https://www.youtube.com/@ThatAIProjectladyTay
+[linkedin]: https://www.linkedin.com/in/taylordwiggins/
 
-Core Competencies:
+<!--**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-System Architecture & Integration: Design, implementation, and maintenance of comprehensive enterprise systems with particular expertise in API integration across diverse platforms
+Here are some ideas to get you started:
 
-Database Engineering & Data Analytics: Advanced SQL expertise for query optimization, database performance management, and actionable insights extraction
-
-Security & Regulatory Compliance: Implementation of technical solutions adhering to strict financial industry regulations
-
-DevOps Implementation: CI/CD pipelines, Jenkins automation, and monitoring tools (Grafana, Prometheus, ELK stack)
-
-AI & Machine Learning: Implementing PyTorch-based solutions for predictive analytics and process automation in financial systems
-
-Blockchain Technology: Exploring decentralized applications and smart contract implementations for financial services
-
-Cybersecurity: Implementing robust security protocols and compliance frameworks for sensitive financial data
-
-Open Source Contributions: Active in FINOS and Linux-based financial technology initiatives
-
-📫 Connect With Me
-Reach me on LinkedIn or send a message here on GitHub
-
-<!--- TaylorWiggins/TaylorWiggins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
